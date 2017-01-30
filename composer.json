@@ -1,0 +1,17 @@
+{
+    "name": "RTGDaCoder/DiscordBot",
+    "description": "A bot which meets your personal needs!",
+    "authors": [
+        {
+            "name": "RTG",
+            "email": "igadget28@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "RTGDaCoder/DiscordBot": "^4.0"
+    },
+    "autoload": {
+        "psr-4": "src/RTG"
+    }
+}
